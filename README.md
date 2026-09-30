@@ -21,7 +21,7 @@ A multiple linear regression analysis of the 2024 World Happiness Report dataset
 - Variance Inflation Factor (VIF)
 - Durbin–Watson Test
 - AIC / BIC comparison
-- MSE, RMSE, and MAE
+- MSE, RMSE, and MAE 
 
 ## Variables
 **Response variable**
