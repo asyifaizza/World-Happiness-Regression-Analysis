@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# RStudio
+.Rproj.user/
+
+# Temporary / generated files
+*.tmp
+*.log
+~$*
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS / archive files
+*.zip
